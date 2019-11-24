@@ -3,7 +3,10 @@
 
 # In[1]:
 
-
+"""
+Lineaarisen regression vaikea esimerkki
+24.11.2019                   Nora Talme        Ensimmäinen toimiva versio
+"""
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
